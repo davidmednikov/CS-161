@@ -1,0 +1,300 @@
+#+1475716629
+g++ average.cpp -o average
+#+1475716636
+g++ change.cpp -o change
+#+1475716646
+g++ tempConvert.cpp -o tempConvert
+#+1475716649
+./average
+#+1475739616
+g++ numGuess.cpp numGuess
+#+1476250815
+g++ fileAdder.cpp -o fileAdder
+#+1476321470
+g++ minmax.cpp -o minmax
+#+1476321477
+g++ numGuess.cpp -o numGuess
+#+1476321496
+g++ -std=c++0x fileAdder.cpp -o fileAdder
+#+1476321499
+./minmax
+#+1476321559
+./numGuess
+#+1476321591
+./fileAdder
+#+1476334854
+g++ testScores.cpp -o testScores
+#+1476335128
+g++ 1-10.cpp -o onetoten
+#+1476335132
+./onetoten
+#+1476335193
+g++ 1-10.cpp -o oneten
+#+1476335196
+./oneten
+#+1476335471
+cd week3
+#+1476335473
+cd exam1
+#+1476335511
+g++ 1-10.cpp -o oneTen
+#+1476335514
+./oneTen
+#+1476336035
+g++ result.cpp -o result
+#+1476336038
+./result
+#+1476859414
+g++ findDistance.cpp -o findDistance
+#+1476860106
+g++ -c fallDistance.cpp -o fallDistance
+#+1476860208
+g++ fallDistance_nc.cpp -o fallDistance_nc
+#+1476860247
+./fallDistance_nc
+#+1476924707
+g++ hailstone.cpp -o hailstone
+#+1476925345
+g++ fallDistance.cpp -o fileDistance
+#+1476925357
+g++ fileDistance.cpp -o fileDistance
+#+1476925389
+g++ fallDistance.cpp -o fallDistance
+#+1476925809
+g++ g++ smallSort.cpp -o smallSort
+#+1476925819
+g++ smallSort.coo -o smallSort
+#+1476926972
+./smallSort 1 1 0
+#+1476927437
+g++ smallSort.cpp -o smallSort
+#+1476927457
+./smallSort 99 100 101
+#+1476927514
+./smallSort 100 50 0
+#+1476927875
+g++ fallDistane_nc.cpp -o fallDistance
+#+1476927878
+cd week4
+#+1476928016
+g++ fallDistance_nc.cpp -o fallDistance
+#+1476928024
+g++ -c fallDistance.cpp -o fallDistanceObj
+#+1476928046
+g++ smallSort_nc.cpp -o smallSort
+#+1476928056
+g++ -c smallSort.cpp -o smallSortObj
+#+1476928073
+g++ hailstone_nc.cpp -o hailstone
+#+1476928091
+g++ -c hailstone.cpp -o hailstoneObj
+#+1476928147
+./fallDistance
+#+1476928184
+./smallSort 14 -90 14
+#+1476928193
+./smallSort
+#+1476928282
+./hailStone
+#+1476928283
+200
+#+1476928294
+./hailstone
+#+1477376557
+g++ Box.cpp boxMain.cpp -o box
+#+1477376796
+cdBankAccount
+#+1477377630
+g++ BankAcount.cpp BankAccountMain.cpp -o bank
+#+1477456009
+cd Box
+#+1477456033
+./box
+#+1477459226
+g++ BankAccount.cpp BankAccountMain.cpp -o bank
+#+1477459336
+cd BankAccount
+#+1477459338
+./bank
+#+1477973888
+g++ Point.cpp LineSegment.cpp geomMain.cpp -o geomg++ Point.cpp LineSegment.cpp geomMain.cpp -o geom
+#+1478060396
+cd week6
+#+1478061029
+g++ Point.cpp LineSegment.cpp geomMain.cpp -o geom
+#+1478061031
+./geom
+#+1478555373
+g++ findMode,gpp -o mode
+#+1478555389
+g++ findMode.gpp -o mode
+#+1478558932
+g++ findMode.cpp -o findMode
+#+1478558989
+./findMode
+#+1478559236
+highest tally: 5
+#+1478559759
+for ( int index = 0 ; index < arraySize ; index++ )
+#+1478559759
+{for ( int index = 0 ; index < arraySize ; index++ )
+#+1478559766
+{
+#+1478560109
+g++ findMode.cpp -o modeg++ findMo
+#+1478574722
+./ode
+#+1478574860
+1234567890flip3 ~/week7 114%
+#+1478576778
+./modes
+#+1478586282
+1
+#+1478587189
+// COMMENT THIS OUT
+#+1478587189
+cout << "Modes: " ;
+#+1478587247
+g++ findMode.cpp -o mode
+#+1478589073
+cd week7
+#+1478589153
+g++ findModeNC.cpp -o mode
+#+1478589156
+./mode
+#+1478589224
+g++ findMode.cpp -c findMode
+#+1478589246
+g++ findMode.cpp -c fMode
+#+1478589266
+g++ findMode.cpp -c
+#+1479110115
+g++testSort.cpp -o test
+#+1479110436
+// g++ testSort.cpp -o test
+#+1479110594
+,.test
+#+1479110680
+..test
+#+1479111024
+testSort.cpp -o test
+#+1479193432
+g++ testSort.cpp -o test
+#+1479193516
+100
+#+1479194421
+g++ testSort.cpp -o testSort
+#+1479194463
+./testSort
+#+1479194748
+g++ -c smallSort2.cpp -o
+#+1479264346
+cd week8
+#+1479264352
+g++ -c smallSort.gpp
+#+1479264385
+g++ testSortNC.cpp -o test
+#+1479270045
+g++ stdDev.cpp Student.cpp -o dev
+#+1479270436
+g++ smallSort2.cpp -o sort
+#+1479270457
+g++ testSortNC.cpp -o sort
+#+1479270459
+./sort
+#+1479270497
+g++ -c smallSort2.cpp
+#+1479270522
+g++ stdDevNC.cpp Student.cpp -o dev
+#+1479270524
+./dev
+#+1479270553
+g++ -c stdDev.cpp Student.cpp
+#+1479845788
+using std::string ;
+#+1479845788
+using std::cin ;
+#+1479845788
+using std::cout ;
+#+1479849099
+tic
+#+1479849855
+if ( gameBoard[0][0] == 'O' && gameBoard[1][1] == 'O' && gameBoard[2][2] == 'O' )
+#+1479855738
+g++ TicTacToe.cpp Board.cpp -o tic
+#+1479887702
+cd week9
+#+1479887910
+./tic
+#+1480399834
+./Store
+#+1480400010
+cd week5
+#+1480400926
+g++ Store.cpp Customer.cpp Product.cpp -o storeg+
+#+1480401743
+cout << endl << currentProduct.getTitle ( ) << endl ;
+#+1480401743
+cout << "ID code: " << currentProduct.getIdCode ( ) << endl ;
+#+1480401743
+cout << "Price: $" << currentProduct.getPrice() << endl;
+#+1480401749
+cout << currentProduct.getDescription ( ) << endl << endl
+#+1480402269
+mednikod
+#+1480406511
+cd week19
+#+1480407798
+no matching function for call to ‘std::basic_istream < char > ::get ( std::string & , int ) ’
+#+1480411612
+Account ID: 2016
+#+1480411641
+found.
+#+1480411641
+flip1 ~/week10 171% f f f
+#+1480411868
+g++ Store.cpp Customer.cpp Product.cpp -o storeg++ Store.cpp Customer.cpp Product.cpp -o store
+#+1480490317
+Thank you for shop
+#+1480499360
+rned 1 exit status
+#+1480499360
+flip1 ~/week10 178%
+#+1480577566
+g++ Store.cpp Customer.cpp Product.cpp -o store
+#+1480578518
+g++ StoreMain.cpp Customer.cpp Product.cpp -o store
+#+1480578535
+g++ -c Store.cpp Customer.cpp Product.cpp
+#+1480841561
+./store
+#+1481485638
+g++ storeTest.cpp Store.cpp Customer.cpp Product.cpp -o test
+#+1481492569
+cd week10
+#+1481492582
+g++ Store.cpp Customer.cpp Product.cpp -o test
+#+1481492584
+./test
+#+1484285428
+cd Labs
+#+1484285432
+cd Lab 1
+#+1484285437
+cd "Lab 1"
+#+1484285448
+cd
+#+1484285452
+cd 162
+#+1484285454
+cd Lab1
+#+1484285462
+cd cd
+#+1484285480
+cd labs
+#+1484285483
+cd lab1
+#+1484285499
+g++ main.cpp readMatrix.cpp determinant.cpp -o main
+#+1484285570
+g++ main.cpp readMatrix.cpp determinant.cpp

@@ -1,0 +1,10 @@
+#
+# .logout 12/22/91
+#
+
+# Permenantly remove all deleted files over 1 week old.
+#if ( -d ~/.delfiles ) then
+#	find ~/.delfiles -mtime +7 -print | perl -ne "chop;unlink;" &
+#endif
+# Clear the screen.
+clear

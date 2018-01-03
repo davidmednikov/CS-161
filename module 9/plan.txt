@@ -1,0 +1,21 @@
+g++ TicTacToe.cpp Board.cpp -o tic
+
+ask user who goes first - o or x
+
+this can be a bool - 0 is o, 1 is x
+
+create the game board
+
+allow whoever goes first to go
+validate input of number
+
+make sure that the move can be made - makeMove()
+
+if makeMove returns false, tell user to input another move
+if makeMove returns true, make move
+
+use checkStatus to see if there is a winning combo on the board
+
+if there is, return who won from gameState
+
+print out the winner

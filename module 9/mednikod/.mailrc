@@ -1,0 +1,5 @@
+# .mailrc -- initialization for mail(1)
+#
+set append asksub askcc crt=22 dot folder=Mail hold
+set nosave quiet keepsave
+ignore received message-id status
